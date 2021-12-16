@@ -1,0 +1,334 @@
+<svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg" stroke="null">
+ <g id="Layer_1" stroke="null">
+  <title stroke="null">Layer 1</title>
+  <path id="svg_1" d="m101,100l803.09998,0l0,52.5l-803.09998,0l0,-52.5z" opacity="undefined" fill="#DDDDDD" stroke-width="5" stroke="#FFFF00"/>
+  <path fill="#DDDDDD" stroke-width="5" opacity="undefined" d="m101,547l829.09998,0l0,52.5l-829.09998,0l0,-52.5z" id="svg_2" stroke="#FFFF00"/>
+  <path fill="#DDDDDD" stroke-width="6" opacity="undefined" d="m360,202l105,0l0,294l-105,0l0,-294z" id="svg_5" stroke="#FFFF00"/>
+  <path fill="#DDDDDD" stroke-width="5" opacity="undefined" d="m516,203l105,0l0,294l-105,0l0,-294z" id="svg_6" stroke="#FFFF00"/>
+  <path fill="#DDDDDD" stroke-width="6" opacity="undefined" d="m672,203l105,0l0,294l-105,0l0,-294z" id="svg_9" stroke="#FFFF00"/>
+  <rect stroke-width="6" id="svg_8" height="294" width="101.5" y="203" x="828" fill="#DDDDDD" stroke="#FFFF00"/>
+  <g id="svg_10" stroke-width="5" stroke="null">
+   <text fill="#DDDDDD" stroke-width="0" x="103.20321" y="220" id="svg_12" font-size="20" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="matrix(1.43268 0 0 1.15385 -28.3971 -30.1249)" stroke="#FFFF91">1</text>
+   <g id="svg_14" fill="#fff" stroke="#FFFF00">
+    <path fill="#DDDDDD" opacity="undefined" d="m103,203l52.5,0l0,294l-52.5,0l0,-294z" id="svg_3" stroke-width="3" stroke="#FFFF00"/>
+    <path fill="#DDDDDD" opacity="undefined" d="m157,227.5" id="svg_11" stroke="#FFFF91"/>
+    <path fill="#DDDDDD" opacity="undefined" d="m104,252l53,0" id="svg_13" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="276.5" x2="157" y2="276.5" id="svg_16" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="301" x2="157" y2="301" id="svg_17" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="325.5" x2="157" y2="325.5" id="svg_23" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="350" x2="157" y2="350" id="svg_24" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="374.5" x2="157" y2="374.5" id="svg_25" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="399" x2="157" y2="399" id="svg_28" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="423.5" x2="157" y2="423.5" id="svg_31" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="448" x2="157" y2="448" id="svg_32" stroke="#FFFF91"/>
+    <line fill="#FFFF00" x1="104" y1="472.5" x2="157" y2="472.5" id="svg_33" stroke="#FFFF91"/>
+    <path fill="#FFFF00" stroke-width="3" opacity="undefined" d="m101.5,227.5l53,0" id="svg_7" stroke="#FFFF91"/>
+   </g>
+  </g>
+  <g stroke-width="6" id="svg_37" stroke="null">
+   <g id="svg_15" stroke="null">
+    <path id="svg_4" d="m204.8,203l105,0l0,294l-105,0l0,-294z" opacity="undefined" fill="#DDDDDD" stroke="#FFFF00"/>
+    <line fill="#DDDDDD" x1="257" y1="203" x2="257" y2="497" id="svg_34" stroke="#FFFF00"/>
+   </g>
+   <line id="svg_18" y2="227.5" x2="309.5" y1="227.5" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_19" y2="252" x2="309.5" y1="252" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_20" y2="276.5" x2="309.5" y1="276.5" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_21" y2="301" x2="309.5" y1="301" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_22" y2="325.5" x2="309.5" y1="325.5" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_26" y2="350" x2="309.5" y1="350" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_27" y2="374.5" x2="309.5" y1="374.5" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_29" y2="399" x2="309.5" y1="399" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_30" y2="423.5" x2="309.5" y1="423.5" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_35" y2="448" x2="309.5" y1="448" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_36" y2="472.5" x2="309.5" y1="472.5" x1="204.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_88" y2="227.5" x2="465.5" y1="227.5" x1="360.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_89" y2="252" x2="464.5" y1="252" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_90" y2="276.5" x2="465.5" y1="276.5" x1="360.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_91" y2="276.5" x2="311.5" y1="276.5" x1="206.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_92" y2="301" x2="464.5" y1="301" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_93" y2="325.5" x2="464.5" y1="325.5" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_94" y2="350" x2="465.5" y1="350" x1="360.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_95" y2="374.5" x2="464.5" y1="374.5" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_96" y2="399" x2="464.5" y1="399" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_98" y2="423.5" x2="464.5" y1="423.5" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_99" y2="448" x2="464.5" y1="448" x1="359.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_100" y2="472.5" x2="465.5" y1="472.5" x1="360.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_101" y2="227.5" x2="621.5" y1="227.5" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_102" y2="252" x2="621.5" y1="252" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_103" y2="276.5" x2="621.5" y1="276.5" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_104" y2="301" x2="621.5" y1="301" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_105" y2="325.5" x2="622.5" y1="325.5" x1="517.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_106" y2="350" x2="621.5" y1="350" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_107" y2="374.5" x2="621.5" y1="374.5" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_108" y2="399" x2="621.5" y1="399" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_109" y2="423.5" x2="621.5" y1="423.5" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_110" y2="448" x2="621.5" y1="448" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_111" y2="472.5" x2="621.5" y1="472.5" x1="516.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_112" y2="227.5" x2="777.5" y1="227.5" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_113" y2="252" x2="777.5" y1="252" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_114" y2="276.5" x2="777.5" y1="276.5" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_115" y2="301" x2="777.5" y1="301" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_116" y2="324.5" x2="777.5" y1="324.5" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_117" y2="350" x2="777.5" y1="350" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_118" y2="374.5" x2="777.5" y1="374.5" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_119" y2="399" x2="777.5" y1="399" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_120" y2="423.5" x2="777.5" y1="423.5" x1="672.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_121" y2="448" x2="778.5" y1="448" x1="673.5" fill="#DDDDDD" stroke="#FFFF00"/>
+   <line id="svg_122" y2="471.5" x2="778.5" y1="471.5" x1="673.5" fill="#DDDDDD" stroke="#FFFF00"/>
+  </g>
+  <path fill="none" opacity="undefined" d="m413,203l0,294" id="svg_38" stroke-width="6" stroke="#FFFF00"/>
+  <path id="svg_41" d="m50,97l0,503.49999" opacity="undefined" fill="none" stroke-width="6" stroke="#000"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.36071 0 0 0.612903 77.3541 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_39" y="218.63158" x="134.86154" stroke-width="0" fill="#000000" stroke="#000">1</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.36071 0 0 0.612903 77.3541 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_42" y="261.05265" x="134.86154" stroke-width="0" fill="#000000" stroke="#000">2</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_43" y="300.21056" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">3</text>
+  <text transform="matrix(0.512461 0 0 0.645161 29.9587 205.097)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_44" y="634" x="36" stroke-width="0" fill="#000000" stroke="#000">entrance</text>
+  <text transform="matrix(0.512461 0 0 0.645161 29.9587 205.097)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_45" y="635.55" x="1759.05792" stroke-width="0" fill="#000000" stroke="#000">entrance</text>
+  <path id="svg_46" d="m980,96.99995l0,503.50003" opacity="undefined" fill="none" stroke-width="5" stroke="#000"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_47" y="337.7369" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">4</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_48" y="378.52639" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">5</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_49" y="419.31588" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">6</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_50" y="460.10538" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">7</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_51" y="500.89487" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">8</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_52" y="540.05278" x="132.29521" stroke-width="0" fill="#000000" stroke="#000">9</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_53" y="579.21069" x="122.0299" stroke-width="0" fill="#000000" stroke="#000">10</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_54" y="620.00019" x="122.0299" stroke-width="0" fill="#000000" stroke="#000">11</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_55" y="659.1581" x="122.0299" stroke-width="0" fill="#000000" stroke="#000">12</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_56" y="659.1581" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">13</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_57" y="618.36861" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">14</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_58" y="579.21069" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">15</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_59" y="540.05278" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">16</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_60" y="500.89487" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">17</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_61" y="461.73696" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">18</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_62" y="420.94746" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">19</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_63" y="381.78955" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">20</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_64" y="341.00006" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">21</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_65" y="300.21056" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">22</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_66" y="259.42107" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">23</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_67" y="220.26316" x="386.36154" stroke-width="0" fill="#000000" stroke="#000">24</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_40" y="220.26316" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">25</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_68" y="259.42107" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">26</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_69" y="300.21057" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">27</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_70" y="341.00006" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">28</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_71" y="381.78955" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">29</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_72" y="419.31588" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">30</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_73" y="461.73696" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">31</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_74" y="500.89487" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">32</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_75" y="540.05278" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">33</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_76" y="579.2107" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">34</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_77" y="618.36861" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">35</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_78" y="659.1581" x="517.24419" stroke-width="0" fill="#000000" stroke="#000">36</text>
+  <rect fill="url(#svg_226)" stroke-width="0" x="53" y="97" width="46" height="400.00001" id="svg_79" fill-opacity="0.57" stroke="#FFFF00"/>
+  <text fill="#000000" stroke-width="0" x="52.00958" y="336.49129" id="svg_80" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="rotate(-90 74.2216 326.837) matrix(1.64824 0 0 1 -79.74 0)" stroke="#000">Upstair</text>
+  <rect fill="url(#svg_87)" stroke-width="0" x="934" y="97" width="43" height="402.00001" id="svg_83" fill-opacity="0.56" stroke="#FFFF00"/>
+  <text fill="#000000" stroke-width="0" x="940.15397" y="338.20071" id="svg_84" font-size="24" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" transform="rotate(-90 955.948 327.915) matrix(1.48201 0 0 1 -498.128 0)" stroke="#000">Upstair</text>
+  <path fill="none" opacity="undefined" d="m569,203l0,294" id="svg_81" stroke-width="6" stroke="#FFFF00"/>
+  <path fill="none" opacity="undefined" d="m725,203l0,294" id="svg_82" stroke-width="6" stroke="#FFFF00"/>
+  <path fill="none" opacity="undefined" d="m879,203l0,294" id="svg_85" stroke-width="6" stroke="#FFFF00"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_134" y="220.26316" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">48</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_135" y="220.26316" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">49</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_136" y="220.26316" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">72</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_137" y="220.26316" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">93</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_138" y="220.26316" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">116</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_139" y="220.26316" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">117</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_143" y="257.78949" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">47</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_144" y="300.21057" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">46</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_145" y="337.7369" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">45</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_146" y="376.89481" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">44</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_147" y="419.31588" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">43</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_148" y="460.10538" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">42</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_149" y="497.63171" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">41</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_150" y="538.4212" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">40</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_151" y="577.57912" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">39</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_152" y="618.36861" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">38</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_153" y="660.78968" x="786.70848" stroke-width="0" fill="#000000" stroke="#000">37</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_154" y="659.1581" x="920.15746" stroke-width="0" fill="#000000" stroke="#000">60</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_155" y="620.00019" x="920.15746" stroke-width="0" fill="#000000" stroke="#000">59</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_156" y="257.78949" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">50</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_157" y="298.57899" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">51</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_158" y="337.7369" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">52</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_159" y="376.89481" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">53</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_160" y="419.31588" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">54</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_161" y="460.10538" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">55</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_162" y="497.63171" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">56</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_163" y="540.05278" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">57</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_164" y="579.2107" x="917.59113" stroke-width="0" fill="#000000" stroke="#000">58</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_165" y="259.42107" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">71</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_166" y="300.21057" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">70</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_167" y="341.00006" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">69</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_168" y="378.52639" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">68</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_169" y="419.31588" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">67</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_170" y="460.10538" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">66</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_171" y="500.89487" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">65</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_172" y="540.05278" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">64</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_173" y="580.84228" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">63</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_174" y="620.00019" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">62</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_175" y="660.78968" x="1187.05542" stroke-width="0" fill="#000000" stroke="#000">61</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_176" y="259.42107" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">94</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_177" y="300.21057" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">95</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_179" y="339.36848" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">96</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_180" y="380.15797" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">97</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_181" y="419.31588" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">98</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_182" y="460.10538" x="1320.5044" stroke-width="0" fill="#000000" stroke="#000">99</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_183" y="500.89487" x="1310.23909" stroke-width="0" fill="#000000" stroke="#000">100</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_184" y="540.05278" x="1310.23909" stroke-width="0" fill="#000000" stroke="#000">101</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_185" y="580.84228" x="1310.23909" stroke-width="0" fill="#000000" stroke="#000">102</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_186" y="620.00019" x="1310.23909" stroke-width="0" fill="#000000" stroke="#000">103</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_187" y="660.78968" x="1310.23909" stroke-width="0" fill="#000000" stroke="#000">104</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_188" y="259.42107" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">115</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_189" y="300.21057" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">114</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_190" y="339.36848" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">113</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_191" y="378.52639" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">112</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_192" y="417.6843" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">111</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_193" y="461.73696" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">110</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_194" y="502.52645" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">109</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_195" y="540.05278" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">108</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_196" y="579.2107" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">107</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_197" y="620.00019" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">106</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_198" y="659.1581" x="1577.13705" stroke-width="0" fill="#000000" stroke="#000">105</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_199" y="259.42107" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">118</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_200" y="298.57899" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">119</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_201" y="339.36848" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">120</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_202" y="378.52639" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">121</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_203" y="417.6843" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">122</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_204" y="460.10538" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">123</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_205" y="500.89487" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">124</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_206" y="538.4212" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">125</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_207" y="579.2107" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">126</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_208" y="618.36861" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">127</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_209" y="659.1581" x="1713.15235" stroke-width="0" fill="#000000" stroke="#000">128</text>
+  <line stroke-width="4" id="svg_124" y2="252" x2="878" y1="252" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_125" y2="301" x2="878" y1="301" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_127" y2="350" x2="878" y1="350" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_128" y2="374.5" x2="878" y1="374.5" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_129" y2="399" x2="878" y1="399" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_130" y2="423.5" x2="878" y1="423.5" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_131" y2="448" x2="878" y1="448" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_132" y2="472.5" x2="878" y1="472.5" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_141" y2="276.5" x2="878" y1="276.5" x1="827" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_142" y2="227.5" x2="878" y1="227.5" x1="827" fill="none" stroke="#FFFF00"/>
+  <line transform="rotate(90 904.5 227.5)" stroke-width="4" id="svg_178" y2="227.5" x2="930" y1="227.5" x1="879" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_210" y2="252" x2="929" y1="252" x1="878" fill="none" stroke="#FFFF00"/>
+  <line transform="rotate(90 904.5 472.5)" stroke-width="4" id="svg_211" y2="472.5" x2="930" y1="472.5" x1="879" fill="none" stroke="#FFFF00"/>
+  <line stroke-width="4" id="svg_212" y2="449" x2="931" y1="449" x1="880" fill="none" stroke="#FFFF00"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_213" y="259.42107" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">138</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_214" y="300.21056" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">137</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_215" y="339.36848" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">136</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_216" y="403.00009" x="1946.68807" stroke-width="0" fill="#000000" stroke="#000">135</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_217" y="461.73695" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">134</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_218" y="499.26328" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">133</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_219" y="540.05278" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">132</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_220" y="580.84227" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">131</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_221" y="620.00018" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">129</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_222" y="659.1581" x="1974.91766" stroke-width="0" fill="#000000" stroke="#000">128</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_123" y="243.10527" x="2075.00439" stroke-width="0" fill="#000000" stroke="#000">139</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_133" y="241.47369" x="2136.59623" stroke-width="0" fill="#000000" stroke="#000">140</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_140" y="641.21073" x="2075.00439" stroke-width="0" fill="#000000" stroke="#000">142</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_223" y="641.21073" x="2136.59623" stroke-width="0" fill="#000000" stroke="#000">142</text>
+  <line fill="none" stroke-width="5" x1="125.5" y1="547" x2="125.5" y2="599.5" id="svg_224" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="174.5" y1="547" x2="174.5" y2="599.5" id="svg_227" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="150" y1="547" x2="150" y2="599.5" id="svg_228" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="199" y1="547" x2="199" y2="599.5" id="svg_229" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="223.5" y1="547" x2="223.5" y2="599.5" id="svg_230" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="248" y1="547" x2="248" y2="599.5" id="svg_231" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="272.5" y1="547" x2="272.5" y2="599.5" id="svg_232" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="297" y1="547" x2="297" y2="599.5" id="svg_233" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="321.5" y1="547" x2="321.5" y2="599.5" id="svg_234" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="346" y1="547" x2="346" y2="599.5" id="svg_235" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="370.5" y1="547" x2="370.5" y2="599.5" id="svg_236" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="395" y1="547" x2="395" y2="599.5" id="svg_237" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="419.5" y1="547" x2="419.5" y2="599.5" id="svg_238" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="444" y1="547" x2="444" y2="599.5" id="svg_239" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="468.5" y1="547" x2="468.5" y2="599.5" id="svg_240" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="493" y1="547" x2="493" y2="599.5" id="svg_242" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="517.5" y1="547" x2="517.5" y2="599.5" id="svg_243" stroke="#FFFF00"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_244" y="804.36869" x="86.10133" stroke-width="0" fill="#000000" stroke="#000">92</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_245" y="804.36869" x="147.69317" stroke-width="0" fill="#000000" stroke="#000">91</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_246" y="804.36869" x="209.285" stroke-width="0" fill="#000000" stroke="#000">90</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_247" y="804.36869" x="270.87684" stroke-width="0" fill="#000000" stroke="#000">89</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_248" y="804.36869" x="337.60133" stroke-width="0" fill="#000000" stroke="#000">88</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_249" y="804.36869" x="399.19317" stroke-width="0" fill="#000000" stroke="#000">87</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_251" y="804.36869" x="460.785" stroke-width="0" fill="#000000" stroke="#000">86</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_252" y="804.36869" x="522.37684" stroke-width="0" fill="#000000" stroke="#000">85</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_253" y="804.36869" x="586.535" stroke-width="0" fill="#000000" stroke="#000">84</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_254" y="804.36869" x="648.12684" stroke-width="0" fill="#000000" stroke="#000">83</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_255" y="804.36869" x="714.85133" stroke-width="0" fill="#000000" stroke="#000">82</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_256" y="804.36869" x="773.87684" stroke-width="0" fill="#000000" stroke="#000">81</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_257" y="804.36869" x="840.60133" stroke-width="0" fill="#000000" stroke="#000">80</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_258" y="804.36869" x="902.19317" stroke-width="0" fill="#000000" stroke="#000">79</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_259" y="804.36869" x="963.785" stroke-width="0" fill="#000000" stroke="#000">78</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_260" y="804.36869" x="1025.37684" stroke-width="0" fill="#000000" stroke="#000">77</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_261" y="804.36869" x="1089.535" stroke-width="0" fill="#000000" stroke="#000">76</text>
+  <line fill="none" stroke-width="5" x1="635.5" y1="547" x2="635.5" y2="599.5" id="svg_262" stroke="#FFFF00"/>
+  <rect fill="#666666" x="520" y="551" width="111" height="44" id="svg_263" stroke="#444444"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(1.39853 0 0 0.836222 -1169.78 -90.6393)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_264" y="804.36869" x="1215.54772" stroke-width="0" fill="#000000" stroke="#000">Pillar</text>
+  <path fill="none" stroke-width="5" opacity="undefined" d="m662.5,547l0,52.5" id="svg_265" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="684.5" y1="547" x2="684.5" y2="599.5" id="svg_266" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="709" y1="547" x2="709" y2="599.5" id="svg_267" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="733.5" y1="547" x2="733.5" y2="599.5" id="svg_268" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="758" y1="547" x2="758" y2="599.5" id="svg_269" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="782.5" y1="547" x2="782.5" y2="599.5" id="svg_270" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="807" y1="547" x2="807" y2="599.5" id="svg_271" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="831.5" y1="547" x2="831.5" y2="599.5" id="svg_272" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="856" y1="547" x2="856" y2="599.5" id="svg_273" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="880.5" y1="547" x2="880.5" y2="599.5" id="svg_274" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="905" y1="546" x2="905" y2="598.5" id="svg_275" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="929.5" y1="547" x2="929.5" y2="599.5" id="svg_276" stroke="#FFFF00"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_277" y="804.36869" x="1456.5197" stroke-width="0" fill="#000000" stroke="#000">154</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_278" y="804.36869" x="1512.97888" stroke-width="0" fill="#000000" stroke="#000">153</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_279" y="804.36869" x="1569.43807" stroke-width="0" fill="#000000" stroke="#000">152</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_280" y="804.36869" x="1633.59623" stroke-width="0" fill="#000000" stroke="#000">151</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_281" y="804.36869" x="1702.88704" stroke-width="0" fill="#000000" stroke="#000">150</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_282" y="804.36869" x="1764.47888" stroke-width="0" fill="#000000" stroke="#000">149</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_283" y="804.36869" x="1828.63704" stroke-width="0" fill="#000000" stroke="#000">148</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_284" y="804.36869" x="1887.66256" stroke-width="0" fill="#000000" stroke="#000">147</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_285" y="804.36869" x="1949.25439" stroke-width="0" fill="#000000" stroke="#000">146</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_286" y="804.36869" x="2013.41256" stroke-width="0" fill="#000000" stroke="#000">145</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_287" y="804.36869" x="2075.00439" stroke-width="0" fill="#000000" stroke="#000">144</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_288" y="804.36869" x="2139.16256" stroke-width="0" fill="#000000" stroke="#000">143</text>
+  <line fill="none" stroke-width="5" x1="880" y1="102" x2="880" y2="154" id="svg_290" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="855.5" y1="102" x2="855.5" y2="154" id="svg_291" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="831" y1="102" x2="831" y2="154" id="svg_292" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="782" y1="102" x2="782" y2="154" id="svg_293" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="806.5" y1="102" x2="806.5" y2="154" id="svg_294" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="757.5" y1="102" x2="757.5" y2="154" id="svg_295" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="733" y1="102" x2="733" y2="154" id="svg_296" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="708.5" y1="102" x2="708.5" y2="154" id="svg_297" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="684" y1="102" x2="684" y2="154" id="svg_298" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="598.5" y1="102" x2="598.5" y2="154" id="svg_299" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="660" y1="102" x2="660" y2="154" id="svg_86" stroke="#FFFF00"/>
+  <rect id="svg_97" height="47" width="54" y="103" x="602" stroke-width="0" fill="#666666" stroke="#666666"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.733005 0 0 0.836222 -316.231 -90.6393)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_250" y="268.62582" x="1256.47513" stroke-width="0" fill="#000000" stroke="#000">Pillar</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_241" y="76.68414" x="2075.00439" stroke-width="0" fill="#000000" stroke="#000">164</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_289" y="76.68414" x="2013.41255" stroke-width="0" fill="#000000" stroke="#000">163</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_300" y="76.68414" x="1954.38704" stroke-width="0" fill="#000000" stroke="#000">162</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_301" y="76.68414" x="1887.66255" stroke-width="0" fill="#000000" stroke="#000">161</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_302" y="76.68414" x="1826.07072" stroke-width="0" fill="#000000" stroke="#000">160</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_303" y="76.68414" x="1764.47888" stroke-width="0" fill="#000000" stroke="#000">159</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_304" y="76.68414" x="1700.32072" stroke-width="0" fill="#000000" stroke="#000">158</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_305" y="76.68414" x="1636.16255" stroke-width="0" fill="#000000" stroke="#000">157</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_306" y="76.68414" x="1569.43806" stroke-width="0" fill="#000000" stroke="#000">156</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_307" y="76.68414" x="1510.41255" stroke-width="0" fill="#000000" stroke="#000">155</text>
+  <line fill="none" stroke-width="5" x1="574.5" y1="102" x2="574.5" y2="154" id="svg_309" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="550" y1="102" x2="550" y2="154" id="svg_310" stroke="#FFFF00"/>
+  <line fill="none" stroke-width="5" x1="525.5" y1="102" x2="525.5" y2="154" id="svg_311" stroke="#FFFF00"/>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_312" y="76.68414" x="1299.97378" stroke-width="0" fill="#000000" stroke="#000">73</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_313" y="76.68414" x="1235.81561" stroke-width="0" fill="#000000" stroke="#000">74</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(0.389662 0 0 0.612903 73.6905 86.3226)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_314" y="76.68414" x="1174.22378" stroke-width="0" fill="#000000" stroke="#000">75</text>
+  <line stroke-width="4" id="svg_315" y2="324" x2="880" y1="324" x1="829" fill="none" stroke="#FFFF00" transform="rotate(90 854.5 324)"/>
+  <rect fill="#DDDDDD" stroke-width="0" x="857" y="303" width="29" height="45" id="svg_316" stroke="#000"/>
+ </g>
+ <defs stroke="null">
+  <linearGradient id="svg_87" x1="1" y1="0.02423" x2="1" y2="1" spreadMethod="pad" stroke="null">
+   <stop stop-color="#0e1106" offset="0" stop-opacity="0.99609" stroke="null"/>
+   <stop stop-color="#b4b1bc" offset="1" stop-opacity="0.99609" stroke="null"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN" stroke="null"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN" stroke="null"/>
+  </linearGradient>
+  <linearGradient id="svg_226" x1="0.84766" y1="0" x2="1" y2="1" spreadMethod="pad" stroke="null">
+   <stop stop-color="#0e1106" offset="0" stop-opacity="0.99609" stroke="null"/>
+   <stop stop-color="#b4b1bc" offset="1" stop-opacity="0.99609" stroke="null"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN" stroke="null"/>
+   <stop stop-color="0" stop-opacity="0" offset="NaN" stroke="null"/>
+  </linearGradient>
+ </defs>
+</svg>
