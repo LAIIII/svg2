@@ -1,4 +1,17 @@
-<svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg" stroke="null">
+<svg width="1000" height="800"
+     stroke="null"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     id="svg7039"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+     xml:space="preserve"
+   sodipodi:docname="stop.svg">
  <g stroke="null" id="Layer_1">
   <title stroke="null">Layer 1</title>
   <path stroke="#FFFF00" stroke-width="5" fill="#DDDDDD" opacity="undefined" d="m101,100l803.09998,0l0,52.5l-803.09998,0l0,-52.5z" id="svg_1"/>
